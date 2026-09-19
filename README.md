@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Selim Doğan</h1>
 
 <p align="center">Computer Engineering student at <b>Kocaeli University</b><br/>
-I build local-first AI, graph-based retrieval and optimization systems.</p>
+
 
 ---
 
